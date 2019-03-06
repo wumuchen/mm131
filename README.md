@@ -36,4 +36,4 @@ id/num
 
 
 ### 有问题可以提issue,欢迎老司机们 star,fork ~
-### 注：该项目是在https://github.com/qwertyuiop6/mm131   基础上完善了一点点，增加了爬取前999个图册的功能
+注：该项目是在‘https://github.com/qwertyuiop6/mm131’基础上完善了一点点，增加了爬取前999个图册的功能
